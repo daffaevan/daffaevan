@@ -1,49 +1,14 @@
 <div align="center">
 
-<!-- Nama dengan efek teks modern -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&height=60&lines=Daffa+Evan+Fadila" alt="Daffa Evan Fadila" />
-
-<h3 style="color: #94a3b8;">🚀 IoT & Network Engineer | Connecting Hardware & Systems</h3>
-
-<!-- Badge Info Keahlian -->
-<p>
-  <img src="https://img.shields.io/badge/{}%20IoT%20&%20Network-0284c7?style=flat&logo=cisco&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/📍%20Indonesia-f43f5e?style=flat" />
-</p>
+<!-- Memanggil Header SVG dengan Efek Glow -->
+![Header Glow](header.svg)
 
 </div>
 
 <br>
 
-<!-- Tampilan Jendela Terminal Warna Hijau Gelap ala Referensi -->
-<div style="background-color: #0b1d16; border: 1px solid #1f4e38; border-radius: 8px; padding: 16px; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; color: #e6edf3;">
-  
-  <!-- Tombol Mac Style & Judul File -->
-  <div style="display: flex; align-items: center; border-bottom: 1px solid #1f4e38; padding-bottom: 10px; margin-bottom: 14px;">
-    <span style="height: 12px; width: 12px; background-color: #ff5f56; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
-    <span style="height: 12px; width: 12px; background-color: #ffbd2e; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
-    <span style="height: 12px; width: 12px; background-color: #27c93f; border-radius: 50%; display: inline-block; margin-right: 12px;"></span>
-    <span style="color: #4ee1a0; font-size: 13px; margin: auto;">developer.js</span>
-  </div>
-
-  <!-- Isi Code Terminal -->
-  <pre style="margin: 0; color: #e6edf3; font-size: 13px; line-height: 1.5;">
-<span style="color: #ff7b72;">const</span> <span style="color: #7ee787;">engineer</span> <span style="color: #ff7b72;">=</span> {
-  <span style="color: #79c0ff;">name</span>: <span style="color: #a5d6ff;">"Daffa Evan Fadila"</span>,
-  <span style="color: #79c0ff;">role</span>: <span style="color: #a5d6ff;">"IoT &amp; Network Engineer"</span>,
-  <span style="color: #79c0ff;">stack</span>: [<span style="color: #a5d6ff;">"ESP32"</span>, <span style="color: #a5d6ff;">"Cisco"</span>, <span style="color: #a5d6ff;">"MQTT"</span>, <span style="color: #a5d6ff;">"Python"</span>],
-  <span style="color: #79c0ff;">focus</span>: <span style="color: #a5d6ff;">"connecting hardware and network infrastructure"</span>,
-  <span style="color: #79c0ff;">build</span>: () <span style="color: #ff7b72;">=&gt;</span> {
-    <span style="color: #ff7b72;">return</span> <span style="color: #a5d6ff;">"smart system solutions"</span>;
-  }
-};</pre>
-
-  <!-- Status Bar Bawah Terminal -->
-  <div style="border-top: 1px solid #1f4e38; margin-top: 14px; padding-top: 8px; font-size: 11px; color: #4ee1a0; display: flex; justify-content: space-between;">
-    <span>🌿 main &nbsp;&nbsp; Ln 10, Col 2</span>
-    <span>⚡ Live &nbsp; JavaScript</span>
-  </div>
-</div>
+<!-- Memanggil Terminal Hijau dengan Efek Smooth Motion -->
+![Terminal Code](terminal.svg)
 
 <br>
 
