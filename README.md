@@ -1,23 +1,21 @@
 <div align="center">
+  <!-- HEADER UTAMA -->
+  <div>
+    <img src="./header.svg" alt="Daffa Evan Fadila Banner" width="800" />
+  </div>
+  <br/>
+  
+  <!-- METRIK PAMERAN -->
+  <div>
+    <a href="https://github.com/daffaevan">
+      <img src="https://img.shields.io/github/stars/daffaevan?style=for-the-badge&color=f59e0b&labelColor=020c09&logo=github&logoColor=f59e0b" alt="GitHub Stars" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=daffaevan&color=10b981&style=for-the-badge&labelColor=020c09&label=PROFILE+VIEWS" alt="Profile Views" />
+  </div>
+  <br/>
 
-<!-- Memanggil Header SVG dengan Efek Glow -->
-![Header Glow](header.svg)
-
-</div>
-
-<br>
-
-<!-- Memanggil Terminal Hijau dengan Efek Smooth Motion -->
-![Terminal Code](terminal.svg)
-
-<br>
-
-<div align="center">
-
-### 📊 GitHub Stats & Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daffaevan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaevan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
+  <!-- TERMINAL KODE -->
+  <div>
+    <img src="./terminal.svg" alt="Animated Developer Terminal" width="800" />
+  </div>
 </div>
