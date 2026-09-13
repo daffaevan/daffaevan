@@ -1,23 +1,23 @@
+<!-- Banner Header Animasi Bergerak -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,10,25&height=180&section=header&text=Daffa%20Evan%20Fadila&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IoT%20&%20Network%20Engineer&descSize=16&descAlignY=62" width="100%" />
+</p>
+
 <div align="center">
 
-# 👋 Hai, Saya Daffa Evan Fadila
-
-### 🔌 IoT & Network Engineer | Membangun Sistem Terhubung & Infrastruktur Handal
-
-<!-- Bagian Tech Stack & Tools dengan Badge Modern (Sangat Rapi) -->
+<!-- Badge Tech Stack dengan efek dinamis -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP32-Microcontroller-00599C?style=flat-square&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Networking-04558B?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-IoT_Protocol-4caf50?style=flat-square" />
-  <img src="https://img.square.io/badge/Blynk-IoT_Platform-00bcd4?style=flat-square" />
+  <img src="https://img.shields.io/badge/ESP32-Microcontroller-00599C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Networking-04558B?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-IoT_Protocol-4caf50?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-<!-- Bagian Kartu Developer Interaktif (Gaya Modern Dark Theme) -->
+<!-- Bagian Kartu Developer -->
 ```javascript
 const engineer = {
   name: "Daffa Evan Fadila",
@@ -27,12 +27,5 @@ const engineer = {
     "Network Architecture & Security",
     "Smart System Solutions (IoT)"
   ],
-  currentProject: "Developing Smart Home Automation System with ESP32",
-  status: "Open for collaboration"
+  status: "Ready to build awesome things 🚀"
 };
-
-function connectWithMe() {
-  const email = "daffa.evan.dev@email.com";
-  const linkedin = "[linkedin.com/in/daffaevan](https://linkedin.com/in/daffaevan)";
-  return { email, linkedin };
-}
