@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Daffa Evan Fadila</h1>
+<h3 align="center">IoT & Network Engineer | Connecting Hardware, Systems & Networks</h3>
 
-<!--
-**daffaevan/daffaevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT-ESP32%2FArduino-blue?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-Cisco%2FRouting-orange?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Scripting-yellow?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-IoT_Protocols-green?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const developer = {
+  name: "Daffa Evan Fadila",
+  role: "IoT & Network Engineer",
+  stack: ["ESP32", "Cisco", "MQTT", "Python"],
+  focus: "Connecting Hardware & Network Infrastructure",
+  build: () => {
+    return "smart system solutions";
+  }
+};
